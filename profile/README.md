@@ -6,7 +6,7 @@
 <h1 align="center">NEXBIT</h1>
 <p align="center">
   <b>Innovating. Collaborating. Winning.</b><br>
-  🚀 A Group Of Student Developers Focussed On Developing The Tools Of The Future
+  🚀 A Group Of Students Developers Building The Tools Of The Future
 </p>
 
 ---
