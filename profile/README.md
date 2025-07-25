@@ -1,6 +1,6 @@
 <!-- Centered Banner -->
 <p align="center">
-  <img src="logo.png" width="120"/>
+  <img src="../logo.png" width="120"/>
 </p>
 
 <h1 align="center">NEXBIT</h1>
@@ -36,7 +36,7 @@ Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecuri
 <table>
   <tr>
     <td>
-       <img src="claim.svg" height="30%" width="30%">
+       <img src="../claim.svg" height="30%" width="30%">
     </td>
     <td>
      <h1>CLAIM</h1> 
