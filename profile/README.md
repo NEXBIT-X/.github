@@ -37,7 +37,7 @@ Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecuri
 <table>
   <tr>
     <td>
-       <img src="../claim.svg" height="30%" width="30%">
+       <img src="../claim-1.svg" >
     </td>
     <td>
      <h1>CLAIM</h1> 
