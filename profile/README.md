@@ -25,10 +25,10 @@ Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecuri
 
 ### **Our Focus**
 - HACKATHONS
-- Web Apps (React, Tauri, Next.js)  
-- Blockchain
 - CTF Challenges  
-
+- Web Applications
+- mobile applications
+- Blockchain
 ---
 
 
