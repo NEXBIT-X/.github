@@ -36,6 +36,7 @@ Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecuri
 ## Projects
 <table>
   <tr>
+    <tr>
     <td>
        <img src="../claim-1.svg" >
     </td>
@@ -49,6 +50,21 @@ Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecuri
   </a>
     <a href="https://github.com/NEXBIT-X/CLAIM">
     <img src="https://img.shields.io/badge/GitHub-CLAIM-333?style=for-the-badge&logo=github" alt="github">
+  </a>
+  </td>
+  </tr>
+  <tr>
+  <td>
+      <img src="https://raw.githubusercontent.com/NEXBIT-X/.github/0f17d1fbe153f8480bb6766a28e3e07d7740c791/essence-banner.svg">
+  </td>
+    <td>
+      <h1>ESSENCE</h1>
+      <p>AI Based Culture Learning</p>
+    </td>
+    <td>
+      </a>
+  <a href="https://github.com/NEXBIT-X/essence-">
+    <img src="https://img.shields.io/badge/GitHub-ESSENCE-333?style=for-the-badge&logo=github" alt="github">
   </a>
   </td>
   </tr>
