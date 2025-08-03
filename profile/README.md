@@ -41,7 +41,7 @@ Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecuri
        <img src="../claim-1.svg" >
     </td>
     <td>
-     <h1>CLAIM</h1> 
+     <h1>CLAIM(Prototype)</h1> 
       <p></p>social platform for uploading patents</p>
     </td>
   <td>
