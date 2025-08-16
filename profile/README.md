@@ -7,7 +7,10 @@
 <p align="center">
   <b>Innovating. Collaborating. Winning.</b><br>
   🚀 A Group Of Students Developers Building The Tools Of The Future
-</p>
+
+---
+
+<a href="https://nexbitx.vercel.app">Check Out Our Website</a>
 
 ---
 
