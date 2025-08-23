@@ -18,7 +18,7 @@
 We are a **hackathon-focused organization** passionate about building **innovative, real-world projects** under time constraints.  
 Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecurity, and App Development**.  
 
-- 🏆 **Projects Based On Hackathons**  
+- 🏆 **Hackathons**  
 - 🤝 Open for collaboration & community projects  
 - 🌐 Active across **Devpost, Unstop, and MLH events**  
 
