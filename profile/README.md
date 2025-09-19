@@ -71,7 +71,24 @@ Our team consists of developers skilled in **Web, Blockchain, AI/ML, Cybersecuri
   </a>
   </td>
   </tr>
+  <tr>
+  <td>
+      <img src="https://raw.githubusercontent.com/NEXBIT-X/LITMUS/5576651616054b6bfe7ee0970cd1156a7ec2e6dd/assets/images/banner.svg">
+  </td>
+    <td>
+      <h1>LITMUS</h1>
+      <p>An Idea Sharing Platform Protected by Blockchain Technology</p>
+    </td>
+    <td>
+      </a>
+  <a href="https://github.com/NEXBIT-X/LITMUS">
+    <img src="https://img.shields.io/badge/GitHub-LITMUS-333?style=for-the-badge&logo=github" alt="github">
+  </a>
+  </td>
+  </tr>
 </table>
+
+
 
 ---
 
